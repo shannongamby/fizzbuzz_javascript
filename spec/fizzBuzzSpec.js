@@ -1,5 +1,3 @@
-//Need test for 3 = fizz
-
 describe("fizzBuzz", function() {
 
   it("returns 'fizz' when given 3", function() {
